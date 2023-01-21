@@ -1,1 +1,2 @@
-As blender exports to .stl it seems to suffer from the assumed scale to be m rather that mm so the direct export made models that were 1/1000 scale, I export in x1000 scale and it seems to work for most applications.
+As blender exports to .stl it seems to suffer from the assumed scale to be m rather that mm so the direct export made models that were 1/1000 scale,
+I export in x1000 scale and it seems to work for most applications.
